@@ -1,4 +1,4 @@
-﻿using Harmony;
+using Harmony;
 using System;
 using System.Collections;
 using System.Collections.Generic;
